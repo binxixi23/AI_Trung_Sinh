@@ -8,11 +8,8 @@ A production-grade implementation of an autonomous **Reincarnation AI** framewor
 
 Project `AI_Trung_Sinh` rejects the linear Euclidean constraints of modern deep networks. Instead of passive brute-force token ingestion, it handles optimization and defensive shielding via mathematical field transformations:
 
-[Incoming Stream] ➔ [Shannon-Kolmogorov Dual Firewall] ➔ [Torsion Centrifuge Scan]
-│
-┌──────────────────────────────────────────────────────────┘
-▼
-[Dynamic Ricci Curvature Warping] ➔ [Terminal Saturation (H=6.0)] ➔ [Hawking Singularity Reset] ➔ [Generation N+1 Rebirth]
+![System Process Diagram](manifold_evolution_chart.png)
+
 
 1. **Dual-Verification Data Governance (`core/governor.py`):** Combines Shannon Information Entropy with Normalized Compression Distance (Kolmogorov Complexity proxy) to completely block semantic mimicry attacks.
 2. **Ricci-Driven Hyperbolic Manifold (`core/manifold.py`):** Maps token states onto a Poincaré Ball domain using a localized finite-difference Ricci Curvature Tensor computation loop to defeat the high-dimensional measure concentration crisis.
