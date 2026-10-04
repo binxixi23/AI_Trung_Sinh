@@ -8,7 +8,7 @@ A production-grade implementation of an autonomous **Reincarnation AI** framewor
 
 Project `AI_Trung_Sinh` rejects the linear Euclidean constraints of modern deep networks. Instead of passive brute-force token ingestion, it handles optimization and defensive shielding via mathematical field transformations:
 
-![System Process Diagram](manifold_evolution_chart.png)
+![System Process Diagram](mathematical_field_transformations.png)
 
 
 1. **Dual-Verification Data Governance (`core/governor.py`):** Combines Shannon Information Entropy with Normalized Compression Distance (Kolmogorov Complexity proxy) to completely block semantic mimicry attacks.
@@ -17,6 +17,7 @@ Project `AI_Trung_Sinh` rejects the linear Euclidean constraints of modern deep 
 4. **Hawking Singularity Reincarnation Pod (`crisis/collapse.py`):** Safely compresses the local metric tensor field down to a regularized numerical Planck threshold (ε = 10⁻⁶) during crisis limits to safely purge toxic variables and tunnel out pristine *Tri Thức Gốc* seeds without hardware crashes.
 
 ---
+![System Process Diagram](manifold_evolution_chart.png)
 
 ## 📂 Project Repository Tree
 
